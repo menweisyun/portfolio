@@ -67,7 +67,7 @@ body {
 	background:#ffffff;
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
-	font-family: 'Work Sans', sans-serif;
+	
 }
 
 a{
@@ -87,7 +87,7 @@ h1,h2,h3,h4,h5,h6 {
 	background:none;
 	margin:0px;
 	line-height:1.6em;
-	font-family: 'Poppins', sans-serif;
+	
 }
 
 textarea{
@@ -419,7 +419,7 @@ img{
 
 	display:  block;
 	font-size:  14px;
-	font-family:  'Poppins', sans-serif;
+	
 	background: #f8e9e9;
 	z-index: 99;
 }
@@ -587,7 +587,7 @@ img{
 }
 
 .card-home .author .designation {
-	font-family: 'Poppins', sans-serif;
+	
 	font-size: 15px;
 	margin-bottom: 25px;
 	color: #222;
@@ -646,7 +646,7 @@ img{
 }
 
 .author-info .author .designation {
-	font-family: 'Poppins', sans-serif;
+	
 	font-size: 15px;
 	margin-bottom: 30px;
 	color: #222;
@@ -758,7 +758,7 @@ img{
 	color: #222222;
 	font-weight: 400;
 	text-align:  center;
-	font-family:  'Work Sans', sans-serif;
+	
 	margin-top: 5px;
 }
 
@@ -893,8 +893,7 @@ img{
 	font-size:14px;
 	color:#222;
 	font-weight:400;
-	font-family: 'Poppins', sans-serif;
-}
+	
 
 .card-resume .timeline-column .timeline-block .date span {
 	color: #9147ff;
